@@ -12,5 +12,7 @@ For the k-means model; pandas, numpy, kmodes, kneed, and datetime
 <h2> Result </h2>
 The K-means model grouped people into diverse groups, which was exactly what the model needed to do. It also can group people on group size. 
 
+Combined with the front-end on wix, the following csv file could be generated using the data from the k-means model. 
+
 ![Screen Shot 2023-05-09 at 3 14 07 PM](https://github.com/ethanwongca/K-MeansGrouping/assets/87055387/6a3b9a8f-bd05-4f32-9884-43f15a213cc2)
 <img width="809" alt="Screen Shot 2023-05-09 at 3 14 54 PM" src="https://github.com/ethanwongca/K-MeansGrouping/assets/87055387/e090f89c-4c7d-4d61-9f93-0a6df58b91c4">
